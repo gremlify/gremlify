@@ -1,6 +1,6 @@
 # Welcome to Gremlfiy
 
-![gremlify](https://drive.google.com/file/d/1MkCSaOGZ5Mm8bA04jWocnEfA20Wrq7HD)
+![gremlify](https://imgur.com/SoefiPf)
 
 This repository is a placeholder for all related www.gremlify.com information and issues.
 
