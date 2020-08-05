@@ -6,6 +6,8 @@ This repository is a placeholder for all related www.gremlify.com information an
 ## What is Gremlify?
 Gremlify is a free tool that provides an interface for querying a Graph database using the [Gremlin](http://tinkerpop.apache.org/gremlin.html) query language.
 
+Read more about Gremlify in our [official documentation](https://gremlify.gitbook.io/gremlify/).
+
 Please feel free to file issues, request features, or just leave your feedback.
 
 
